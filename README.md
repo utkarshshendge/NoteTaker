@@ -1,3 +1,3 @@
 # NoteTaker
-Automated testing,undo functionality,dynamic theming,note functionality will be added soon .
+Undo functionality,dynamic theming .
 Check release notes for screenshots of app.
