@@ -1,3 +1,4 @@
 # NoteTaker
-Undo functionality,dynamic theming will be added soon.
+ Added Undo functionality and dynamic themeing.
 Check release notes for screenshots of app.
+
